@@ -6,7 +6,6 @@ We can  also   write   WDBASql queries  like    SQL/Oracle  Queries.
 
 
 
-
 UNIT:1: Introduction
 ==========================
 
@@ -254,5 +253,12 @@ Note:
 Kindly   see    the  WDBASQL  pdf   for  more   details  about  WDBASQL  Tutorial.
 
 Note:  WDBSQL   is  a  securable  database   and  it  is  the  common   database  for  C#,JAVA,and  all  WRIT  programming Languages
+
+
+
+
+Kindly  visit  our   url  given  below   for  more  details  about latest information updates...
+
+WDBA DATABASE TUTORIAL URL:   https://wilmixsolomon555.wixsite.com/jittutorial/wnosqldatabasetutorial
 
 
