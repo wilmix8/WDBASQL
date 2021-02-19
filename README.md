@@ -233,19 +233,6 @@ batches.
 
 
 
-WDBASQL(WSQL*)PLSQL  interaction with  native databases
-===============================================================
-
-For  SQL  Server
-WDBA.writeln((manipulate.Signal("MANIPULATE","Select  *  from  student","student","sno,tmark,rank","?,?,?",4,"sun.jdbc.odbc.JdbcOdbcDriver","jdbc:odbc:dsn","sa","jemin","wilmix21")));
-
-For  Oracle  Server
-WDBA.writeln(""+manipulate.Signal("MANIPULATE","Select  *  from  student","student","sno,tmark,rank","?,?,?",4,"oracle.jdbc.driver.OracleDriver","jdbc:oracle:thin:@localhost:1521:xe","system","jemin","wilmix2")); 
-
-note:  select  the  following  dll  which is   given below
-
- manipulate.dll  ,  ikvm.open.jdbc.dll to  compile  this  WDBASQL
-plsql  program.
 
 
 Note:
@@ -259,6 +246,6 @@ Note:  WDBSQL   is  a  securable  database   and  it  is  the  common   database
 
 Kindly  visit  our   url  given  below   for  more  details  about latest information updates...
 
-WDBA DATABASE TUTORIAL URL:   https://wilmixsolomon555.wixsite.com/jittutorial/wnosqldatabasetutorial
+WDBA DATABASE TUTORIAL URL:   https://sites.google.com/site/wnosqlsecurabledatabase/
 
 
