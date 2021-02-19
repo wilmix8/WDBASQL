@@ -237,7 +237,7 @@ batches.
 
 Note:
 ======
-Kindly   see    the  WDBASQL  pdf   for  more   details  about  WDBASQL  Tutorial.
+Kindly   see    the  WNOSQLTutorialpdf   for  more   details  about  WDBASQL  Tutorial.
 
 Note:  WDBSQL   is  a  securable  database   and  it  is  the  common   database  for  C#,JAVA,and  all  WRIT  programming Languages
 
